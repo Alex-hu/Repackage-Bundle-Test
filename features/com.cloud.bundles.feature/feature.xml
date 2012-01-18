@@ -19,4 +19,5 @@
 
    <plugin id="com.cloud.bundles.spring.plugin" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
    <plugin id="org.scribe" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
+   <plugin id="org.hamcrest.hamcrest-core" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
 </feature>

@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Hamcrest-core
+Bundle-SymbolicName: org.hamcrest.hamcrest-core
+Bundle-Version: 1.3.0.qualifier
+Bundle-Vendor: Jijesoft
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
