@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: org.scribe
+Bundle-SymbolicName: org.scribe;singleton:=true
+Bundle-Version: 1.0.8.qualifier
+Export-Package: org.scribe.builder;version="1.0.8",
+ org.scribe.builder.api;version="1.0.8",
+ org.scribe.exceptions;version="1.0.8",
+ org.scribe.extractors;version="1.0.8",
+ org.scribe.model;version="1.0.8",
+ org.scribe.oauth;version="1.0.8",
+ org.scribe.services;version="1.0.8",
+ org.scribe.utils;version="1.0.8"
+Bundle-Vendor: Nuvola, Inc
+Import-Package: org.apache.commons.codec,
+ org.apache.commons.codec.binary,
+ org.apache.commons.codec.digest,
+ org.apache.commons.codec.language,
+ org.apache.commons.codec.net
